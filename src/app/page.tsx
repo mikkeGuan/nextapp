@@ -11,7 +11,7 @@ export default function HomePage() {
       </Link>
           <Image
             src={homeImage}
-            width={500}
+            width={600}
             height={500}
             alt="Picture of home"
           />
